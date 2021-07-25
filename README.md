@@ -101,6 +101,9 @@ The service layer introduces us with a few new classes:
 
 # Running the Application
 
+use test credit cards offered by stipe 
+4242 4242 4242 4242 is not a real credit card number. It is one of the several Stripe testing cards available online. These cards only work in testing mode.
+
 ![image](https://user-images.githubusercontent.com/43759116/126889789-9c8831e2-36cb-4044-9aff-38424a36733b.png)
 
 # Conclusion
@@ -131,22 +134,22 @@ See [video demonstrations][youtube-playlist] covering how to use the library.
 
 # Stripe features
 
-Authorization
-Dispute Handling
-Financial Reporting
-Clean Canvas
-Invoice
-Open-Source Plugin
-Payment Options
-Mobile Customer Interface
-Embeddable Checkout
-Multicurrency Payouts
-Roles and Permissions
-Accounting Integrations
-Unified Payout
-Payout Timing
-Consolidated Reports
-Custom UI Toolkit
+Authorization,
+Dispute Handling,
+Financial Reporting,
+Clean Canvas,
+Invoice,
+Open-Source Plugin,
+Payment Options,
+Mobile Customer Interface,
+Embeddable Checkout,
+Multicurrency Payouts,
+Roles and Permissions,
+Accounting Integrations,
+Unified Payout,
+Payout Timing,
+Consolidated Reports,
+Custom UI Toolkit,
 Collaboration Notes
 
 # Stripe Benefits
