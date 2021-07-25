@@ -44,15 +44,6 @@ You'll need to manually install the following JARs:
 - The Stripe JAR from <https://github.com/stripe/stripe-java/releases/latest>
 - [Google Gson][gson] from <https://repo1.maven.org/maven2/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar>.
 
-### [ProGuard][proguard]
-
-If you're planning on using ProGuard, make sure that you exclude the Stripe
-client library. You can do this by adding the following to your `proguard.cfg`
-file:
-
-```
--keep class com.stripe.** { *; }
-```
 
 ## Documentation
 
